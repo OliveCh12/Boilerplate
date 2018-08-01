@@ -1,0 +1,55 @@
+body {
+  font-family: 'Proxima Nova' !important;
+  margin: 0;
+}
+
+.starter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 14pt;
+  height: 100vh;
+  background-color: #0071E5;
+  color: #fff;
+}
+
+.starter-logo {
+  margin: 2rem;
+  width: 200px;
+  height: 200px;
+  transition: 0.3s;
+}
+
+.starter-logo:hover {
+  transform: scale(1.1);
+}
+
+.starter-logo:after {
+  transform: scale(1.3);
+}
+
+footer {
+  padding: 2rem;
+  width: 100vh;
+  text-align: center;
+}
+
+footer a {
+  color: #fff !important;
+  text-decoration: none !important;
+  transition: 0.2s;
+}
+
+footer a:hover {
+  opacity: 0.5;
+}
+
+i {
+  margin: 1rem;
+}
+
+span {
+  font-size: 12pt;
+  opacity: 0.5;
+}
