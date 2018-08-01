@@ -9,9 +9,10 @@ Reference-style:
 
 
 ## Installation
-
-  git clone https://github.com/OliveCh12/Boilerplate.git
-  cd ../Boilerplate
-  atom .
+'''
+git clone https://github.com/OliveCh12/Boilerplate.git
+cd ../Boilerplate
+atom .
+'''
 
 Still in progress...
