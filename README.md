@@ -1,8 +1,11 @@
 # Boilerplate
 
 Ce "Repository" me sert de base afin de développer un site internet static et autre choses.
-!\[alt text\]\[logo\]
-\[logo\]: img/capture.jpeg "Screen Capture"
+
+
+![alt text][logo]
+
+[logo]: img/capture.jpeg
 
 ### Installation
 
